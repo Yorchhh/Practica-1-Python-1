@@ -169,7 +169,9 @@ while True:
  if password == '123456':
   break
 print('Estás dentro!')'''
-'''Función que suma dos números'''
+
+
+'''Función que suma dos números
 
 
 def sumador(a, b):
@@ -181,3 +183,4 @@ num1 = int(input("Introduzca el primero numero"))
 num2 = int(input("Introduzca el segundo numero"))
 resultado = sumador(num1, num2)
 print("El resultado de la suma es", resultado)
+'''
